@@ -1,0 +1,6 @@
+Tässä kuvakaappauksessa näkyy kaapattua liikennettä koneeltani.
+Ensimmäisenä Ethrenet II linkkikerros ja palvelimen MAC-osoite, 
+seuraavaksi on verkkokerros eli Destination-rivi, 
+viimeisenä pakettikerroksena on Transmission Control Protocol (TCP).
+
+![h0_kuva](h0.jpg)
